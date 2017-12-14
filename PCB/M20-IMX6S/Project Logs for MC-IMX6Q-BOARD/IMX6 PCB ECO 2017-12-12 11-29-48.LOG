@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=C20-1
+Removed Pin From Net: NetName=NetC19_1 Pin=R12-2
+Removed Member From Class: ClassName=2.ETH Member=C20
+Removed Member From Class: ClassName=2.ETH Member=R12
